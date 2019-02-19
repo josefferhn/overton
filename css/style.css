@@ -1,0 +1,64 @@
+body{
+	font-family: Segoe UI;
+	color: #fff;
+	font-size: 14px;
+	background-color: #000;
+}
+header{
+	padding: 20px 0;
+}
+
+#hero{
+	background-image: url(../img/slider-3.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	padding: 200px 0;
+}
+#hero h1{
+	font-size: 80px;
+	font-weight: 700;
+}
+#hero p{
+	font-size: 20px;
+}
+
+.btn-rectangulo{
+	background-color: transparent;
+	border:1px solid #fff;
+	color: #fff;
+	border-radius: 0;
+	padding: 10px 30px;
+	text-transform: lowercase;
+	font-weight: 600;
+}
+.btn-rectangulo:hover{
+	background-color: #fff;
+	color: #000;
+}
+
+#primera-seccion{
+	/*background-color: #212121;*/
+	background-image: url(../img/bg-camino.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	color: #fff;
+	text-align: center;
+	/*height: 250px;*/
+	padding: 200px 0;
+	
+}
+
+#scroll{
+	padding: 100px 0;
+}
+#scroll .info-scroll{
+	text-align: center;
+	margin-bottom: 50px;
+}
+
+
+
+
+
